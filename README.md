@@ -15,6 +15,7 @@ Projeyi çalıştırmak için PostgreSQL veya herhangi bir SQL destekleyen verit
 
 -- Tablonuzu oluşturun ve veri ekleyin
 
+
 CREATE TABLE invoice (
 
     invoice_id SERIAL PRIMARY KEY,
